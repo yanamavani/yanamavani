@@ -19,7 +19,8 @@
 ### 💻 Languages
 - HTML
 - CSS
-- JavaScript  
+- JavaScript
+- TypeScript
 - Java
 - python
 - c 
